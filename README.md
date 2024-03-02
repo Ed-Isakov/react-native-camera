@@ -13,5 +13,5 @@ change_branch_1
 <br />
 change_branch_1
 > You can find the old code of react-native-camera [here](https://github.com/react-native-camera/react-native-camera/tree/master).
-
+change_branch_1
 > See [this issue](https://github.com/react-native-community/react-native-camera/issues/3000) for more details.
